@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an AI Engineer with a great passion for leveraging AI to solve real-world problems!
+
 <!--
 **tomervazana/tomervazana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/tomervazana/count.svg)
 -->
