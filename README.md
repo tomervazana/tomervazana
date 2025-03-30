@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an AI Engineer with a great passion for leveraging AI to solve real-world problems!
+Welcome to my GitHub Profile, I'm an AI Engineer specializing in NLP, Computer Vision, and Deep Learning!
 
 <!--
 **tomervazana/tomervazana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
