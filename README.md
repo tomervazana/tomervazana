@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-Welcome to my GitHub Profile, I'm an AI Engineer specializing in NLP, Computer Vision, and Deep Learning!
+Welcome to my GitHub profile. 
+I’m Tomer, an AI Engineer specializing in Deep Learning and Machine Learning, with a focus on Natural Language Processing (NLP) and Computer Vision (CV).
+
+- 🔭 I’m currently working on "mDiamond AI-Powered Drone Detection":
+Drone threat detection solution that combines triple thermal camera arrays with advanced SWIR detection, providing 360° x 120° coverage. Powered by a sophisticated AI engine, it identifies, classifies, and localizes drone threats.
+- 🌱 I’m currently learning Computer Science with a focus in AI (Masters Degree)
+- 📫 How to reach me: 
+    - LinkedIn:
+    - email:
+- ⚡ Fun fact: I spent around 70% of my life interacting with computers. 👨🏻‍💻
 
 <!--
 **tomervazana/tomervazana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
