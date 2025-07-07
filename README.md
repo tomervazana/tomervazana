@@ -11,7 +11,8 @@ I’m Tomer Vazana, an AI Engineer specializing in Deep Learning and Machine Lea
     - [Connect with me on LinkedIn](https://www.linkedin.com/in/tomervazana/)  
     - [tomer.vazana.ai@gmail.com](mailto:tomer.vazana.ai@gmail.com)
 
-- ⚡ **Fun fact:** I've spent approximately 70% of my life interacting with computers. 👨🏻‍💻
+- ⚡ **Fun fact:** 
+    I've spent approximately 70% of my life interacting with computers. 👨🏻‍💻
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tomervazana/" target="_blank">
