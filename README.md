@@ -18,21 +18,21 @@ Social Media:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
-</a>
-<a href="https://github.com/yourusername">
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
-</a>
-<a href="https://huggingface.co/yourusername">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png" alt="Hugging Face" width="48" height="48"/>
-</a>
-<a href="https://www.kaggle.com/yourusername">
-  <img src="https://img.icons8.com/?size=48&id=QrYhwpUzAcoy&format=png&color=000000" alt="Kaggle" />
-</a>
+  <a href="https://www.linkedin.com/in/tomervazana/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tomer.vazana.ai@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
+  </a>
+  <a href="https://huggingface.co/yourusername">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png" alt="Hugging Face" width="48" height="48"/>
+  </a>
+  <a href="https://www.kaggle.com/yourusername">
+    <img src="https://img.icons8.com/?size=48&id=QrYhwpUzAcoy&format=png&color=000000" alt="Kaggle" />
+  </a>
 </p>
 
 <!--
