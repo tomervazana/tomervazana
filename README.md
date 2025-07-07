@@ -24,7 +24,7 @@ Social Media:
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
 </a>
 <a href="https://github.com/yourusername">
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
 </a>
 <a href="https://huggingface.co/yourusername">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png" alt="Hugging Face" width="30" height="30"/>
