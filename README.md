@@ -20,6 +20,18 @@ Social Media:
 <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
 </a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" />
+</a>
+<a href="https://huggingface.co/yourusername">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png" alt="Hugging Face" width="30" height="30"/>
+</a>
+<a href="https://www.kaggle.com/yourusername">
+  <img src="https://img.icons8.com/windows/32/000000/kaggle.png" alt="Kaggle" />
+</a>
 <!--
 
 ## Hi there 👋
