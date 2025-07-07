@@ -9,7 +9,7 @@ I’m Tomer, an AI Engineer specializing in Deep Learning and Machine Learning, 
 - 🌱 **Currently pursuing a Master's Degree in Computer Science with a specialization in AI.**
 
 - 📫 **How to reach me:**  
-    - LinkedIn: [Your LinkedIn Profile URL]  
+    - [Connect with me on LinkedIn](https://www.linkedin.com/in/tomervazana/)  
     - Email: [Your Email Address]
 
 - ⚡ **Fun fact:** I've spent approximately 70% of my life interacting with computers. 👨🏻‍💻
