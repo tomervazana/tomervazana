@@ -30,8 +30,9 @@ Social Media:
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png" alt="Hugging Face" width="30" height="30"/>
 </a>
 <a href="https://www.kaggle.com/yourusername">
-  <img src="https://img.icons8.com/windows/32/000000/kaggle.png" alt="Kaggle" />
+  <img src="https://img.icons8.com/?size=100&id=bMncK0wGFANA&format=png&color=000000" alt="Kaggle" />
 </a>
+
 <!--
 
 ## Hi there 👋
