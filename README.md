@@ -17,6 +17,7 @@ Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+<p align="center">
 <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
 </a>
@@ -32,6 +33,7 @@ Social Media:
 <a href="https://www.kaggle.com/yourusername">
   <img src="https://img.icons8.com/?size=48&id=QrYhwpUzAcoy&format=png&color=000000" alt="Kaggle" />
 </a>
+</p>
 
 <!--
 
