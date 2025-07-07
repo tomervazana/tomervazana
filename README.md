@@ -10,7 +10,7 @@ I’m Tomer, an AI Engineer specializing in Deep Learning and Machine Learning, 
 
 - 📫 **How to reach me:**  
     - [Connect with me on LinkedIn](https://www.linkedin.com/in/tomervazana/)  
-    - Email: [Your Email Address]
+    - [Email me at: tomer.vazana.ai@gmail.com](mailto:tomer.vazana.ai@gmail.com)
 
 - ⚡ **Fun fact:** I've spent approximately 70% of my life interacting with computers. 👨🏻‍💻
 
