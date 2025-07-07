@@ -13,6 +13,10 @@ I’m Tomer Vazana, an AI Engineer specializing in Deep Learning and Machine Lea
 
 - ⚡ **Fun fact:** I've spent approximately 70% of my life interacting with computers. 👨🏻‍💻
 
+Social Media:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 <!--
 
 ## Hi there 👋
