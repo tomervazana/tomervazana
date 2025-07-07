@@ -24,13 +24,13 @@ Social Media:
   <a href="mailto:tomer.vazana.ai@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/tomervazana">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
   </a>
-  <a href="https://huggingface.co/yourusername">
+  <a href="https://huggingface.co/tomervazana">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.png" alt="Hugging Face" width="48" height="48"/>
   </a>
-  <a href="https://www.kaggle.com/yourusername">
+  <a href="https://www.kaggle.com/tomervazana">
     <img src="https://img.icons8.com/?size=48&id=QrYhwpUzAcoy&format=png&color=000000" alt="Kaggle" />
   </a>
 </p>
